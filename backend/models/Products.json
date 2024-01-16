@@ -1,0 +1,58 @@
+[
+    {
+        "pid": 1,
+        "name": "Comfortable Armchair",
+        "description": "A cozy armchair for ultimate relaxation.",
+        "price": 299.99,
+        "imageUrl": "../images/ComfyArmChair.jpg"
+    },
+    {
+        "pid": 2,
+        "name": "Modern Dining Table",
+        "description": "Sleek and stylish dining table for your family gatherings.",
+        "price": 499.99,
+        "imageUrl": "../images/ModernDiningTable.jpg"
+    },
+    {
+        "pid": 3,
+        "name": "Leather Recliner Sofa",
+        "description": "Luxurious leather sofa with built-in recliners.",
+        "price": 899.99,
+        "imageUrl": "../images/LeatherReclinerSofa.jpg"
+    },
+    {
+        "pid": 4,
+        "name": "Wooden Coffee Table",
+        "description": "Classic wooden coffee table for your living room.",
+        "price": 199.99,
+        "imageUrl": "../images/WoodenCoffeeTable.jpg"
+    },
+    {
+        "pid": 5,
+        "name": "Elegant Bookshelf",
+        "description": "Organize your books with this elegant bookshelf.",
+        "price": 349.99,
+        "imageUrl": "../images/ElegantBookshelf.jpg"
+    },
+    {
+        "pid": 6,
+        "name": "Sectional Corner Sofa",
+        "description": "Maximize seating space with this sectional corner sofa.",
+        "price": 799.99,
+        "imageUrl": "../images/SectionalCornerSofa.jpg"
+    },
+    {
+        "pid": 7,
+        "name": "Contemporary Office Chair",
+        "description": "Stay comfortable while working with this modern office chair.",
+        "price": 149.99,
+        "imageUrl": "../images/OfficeChair.jpg"
+    },
+    {
+        "pid": 8,
+        "name": "Classic Rocking Chair",
+        "description": "Relax and unwind with this classic rocking chair.",
+        "price": 179.99,
+        "imageUrl": "../images/ClassicRockingChair.jpg"
+    }
+]
