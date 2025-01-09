@@ -11,7 +11,7 @@ const Shop = () => {
     useEffect(() => {
         const fetchData = async () => {
             try {
-                const response = await fetch('http://localhost:3000/products'); // Update the URL accordingly
+                const response = await fetch('https://assignment-3-wp-coral.vercel.app/products'); // Update the URL accordingly
                 const data = await response.json();
 
                 console.log('Fetched products successfully:', data);
